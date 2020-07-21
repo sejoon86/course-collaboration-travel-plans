@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T05:37:36.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="tMfg8Y3AA7pHQdBulcQt" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T05:38:03.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="YXAnrv-Cr1Z_qULVceiT" version="13.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2062" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,22 +133,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ajWHQlZ5WoUlic66Gord-44" value="AA71_flag == SET&lt;br&gt;&amp;amp; AA75_flag == UNSET&lt;br&gt;&amp;amp; BB91_resp_flag ==SET" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="590" width="200" height="90" as="geometry" />
+          <mxGeometry x="10" y="600" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ajWHQlZ5WoUlic66Gord-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajWHQlZ5WoUlic66Gord-48" target="ajWHQlZ5WoUlic66Gord-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ajWHQlZ5WoUlic66Gord-48" value="send AA75&lt;br&gt;AA75_flag = SET&lt;br&gt;send AA73" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="234" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajWHQlZ5WoUlic66Gord-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajWHQlZ5WoUlic66Gord-50" target="ajWHQlZ5WoUlic66Gord-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ajWHQlZ5WoUlic66Gord-50" value="AA71_flag == SET&lt;br&gt;&amp;amp; AA75_flag == SET&lt;br&gt;&amp;amp; BB91_flag == SET&lt;br&gt;&amp;amp; A1_flag == SET" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="780" width="240" height="90" as="geometry" />
+          <mxGeometry x="380" y="600" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ajWHQlZ5WoUlic66Gord-52" value="send AA75&lt;br&gt;send AA73&lt;br&gt;AA75_flag = SET&lt;br&gt;A1_flag = UNSET" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="615" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
